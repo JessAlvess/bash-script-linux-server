@@ -2,9 +2,7 @@
 
 ## Objective of the project
 
-This project aims to create a script that runs commands on the Linux server to create directories, directories and users, changing the access permissions and creating files.
-
-The projects consists in the creation of a bash script to run commands on the Linux server to create directories, groups and users, changing the access permissions of access.
+This project aims to create a bash script that runs commands on the Linux server to create directories, groups and users, changing the access permissions and creating files.
 
 ## Organization
 
