@@ -1,8 +1,8 @@
-# Bash Scripts for Linux Server
+# Bash Scripts for File Server In Linux
 
 ## Objective of the project
 
-This project aims to create a bash script that runs commands on the Linux server to create directories, groups and users, changing the access permissions and creating files.
+This project aims to create a bash script that runs commands on the Linux to install `Samba` server, create `directories`, `groups` and `users`, changing the access permissions and creating files.
 
 ## Organization
 
@@ -32,4 +32,4 @@ This project aims to create a bash script that runs commands on the Linux server
 
 ## Usage
 
-This project was developed for didatics purposes.
+This project was developed for didatics purposes. The main objective is to automate the installation of a file server.
