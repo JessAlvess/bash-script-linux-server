@@ -11,3 +11,11 @@ The repository is divided into two parts:
 * `iac-file-server`: Bash scripts for File Server.
 
 * `iac-web-server`: Bash scripts for Web Server.
+
+## How to execute
+
+* download Samba server and Apache2 server in the web
+
+* Download and install a virtual machine in your computer
+
+* Run the scripts in your terminal
